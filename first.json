@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Kashan",
+    "score": 328.3,
+    "isAdmin": true,
+    "license": null,
+    "shopItems": ["Food", "Jewellery", "Sunflower Oil"],
+    "myobj": {
+      "name": "Nested",
+      "marks": 68,
+      "shopItems2": ["Food", "Jewellery", { "a": true }]
+    }
+  },
+  {
+    "name": "Kashan",
+    "score": 328.3,
+    "isAdmin": true,
+    "license": null,
+    "shopItems": ["Food", "Jewellery", "Sunflower Oil"],
+    "myobj": {
+      "name": "Nested",
+      "marks": 68,
+      "shopItems2": ["Food", "Jewellery", { "a": true }]
+    }
+  }
+]

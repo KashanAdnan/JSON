@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "contentheading": "Moniter",
+    "contentpara": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A error iure vitae? Iusto culpa ullam sequi Quasi, voluptatum deleniti quaerat, dolor inventore cumque praesentium, rem distinctio nihil fuga mollitia eaque!",
+    "image":"https://images.pexels.com/photos/2049411/pexels-photo-2049411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "contentheading": "CPU",
+    "contentpara": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A error iure vitae? Iusto culpa ullam sequi Quasi, voluptatum deleniti quaerat, dolor inventore cumque praesentium, rem distinctio nihil fuga mollitia eaque!",
+    "image":"https://images.pexels.com/photos/2049411/pexels-photo-2049411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "contentheading": "Mouse",
+    "contentpara": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A error iure vitae? Iusto culpa ullam sequi Quasi, voluptatum deleniti quaerat, dolor inventore cumque praesentium, rem distinctio nihil fuga mollitia eaque!",
+    "image":"https://images.pexels.com/photos/2049411/pexels-photo-2049411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
